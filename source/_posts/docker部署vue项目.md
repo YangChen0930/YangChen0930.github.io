@@ -1,6 +1,6 @@
 ---
 title: docker部署vue项目
-date: 2024-01-08 14:34:38
+date: 2023-11-14 17:34:38
 tags:
     - web
     - nginx
