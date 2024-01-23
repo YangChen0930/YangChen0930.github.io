@@ -177,7 +177,7 @@ links_settings:
   layout: block
 
 links:
-  #Title: https://example.com
+  简历: https://vue-resume-two.vercel.app/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (nonsupport wrap expand_all).
