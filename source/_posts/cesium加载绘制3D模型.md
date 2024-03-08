@@ -29,6 +29,8 @@ const entity = viewer.entities.add({
   viewer.trackedEntity = entity; // 镜头固定到模型上
 ```
 
+<!-- more -->
+
 ![null](https://s2.loli.net/2024/01/08/iwYOa5sIqANLHte.png)
 
 ## 2.绘制模型

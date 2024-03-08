@@ -15,6 +15,8 @@ tags:
 - 需要手动复制 node_modules/cesium/Build/CesiumUnminified/ 下的四个静态资源文件夹
 - 对多个发布环境仍需要手动修改 CESIUM_BASE_URL，如果切换到 CDN 或内网已有 CesiumJS 在线库资源，这个改起来就麻烦许多
 
+<!-- more -->
+
 ## 优化点
 
 ### 使用插件外部化CesiumJS

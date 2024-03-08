@@ -18,6 +18,8 @@ WebGL（Web图形库）是一个JavaScript API，可在任何兼容的Web浏览�
 
 ![null](https://s2.loli.net/2024/01/08/gZ6lTXjYLVh1wG8.png)
 
+<!-- more -->
+
 ### 环境搭建以及helloworld
 
 Cesium是纯前端的代码，官方给出的源代码中，配套了nodejs的server端，以及可以通过nodejs进行安装部署。实际上也可以将Cesium部署进入tomcat（geoserver）、apache、nginx等服务器中。

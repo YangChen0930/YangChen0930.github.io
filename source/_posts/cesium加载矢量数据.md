@@ -42,6 +42,8 @@ promise.then((datasource) => {
 
 ![null](https://s2.loli.net/2024/01/08/ThFqoA6jfSVdmsr.png)
 
+<!-- more -->
+
 ### 1.2 KML
 
 KML是基于XML语法标准的一种标记语言，采用标记结构，含有嵌套的元素和属性，应用说Google Earth、Google Map等地图应用中。

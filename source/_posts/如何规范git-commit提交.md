@@ -17,6 +17,8 @@ git commit -m "hello world
 
 ![1657074699797-5b2727af-375f-4ec9-8ba2-b78a3e994a67](https://s2.loli.net/2024/01/15/zwVTm4t5dfLNvB7.png)
 
+<!-- more -->
+
 
 
 通过git commit的时候弹出一个vim编辑器来编辑模板类型的一份提交信息，主要格式如下：

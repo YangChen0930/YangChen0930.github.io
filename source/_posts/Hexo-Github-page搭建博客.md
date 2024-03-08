@@ -29,6 +29,8 @@ Let's Go ~
   git version
 ```
 
+<!-- more -->
+
 # 安装 Hexo
 
 node 和 git 安装成功后就可以安装 Hexo。

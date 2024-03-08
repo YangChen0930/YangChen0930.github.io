@@ -21,6 +21,8 @@ CESIUM_BASE_URL 的作用，它就是告诉已经运行的 CesiumJS 上哪去找
 
 注意：Vite 开发服务器的根路径，除了挂载了工程的根目录，还挂载了工程根目录下的 public 目录，public 目录的作用请自己查阅 Vite 文档。
 
+<!-- more -->
+
 ### 3、使用
 
 ```bash

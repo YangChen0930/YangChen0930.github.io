@@ -30,6 +30,8 @@ COPY --from=0 /app/dist /app
 COPY nginx.conf /etc/nginx/nginx.conf
 ```
 
+<!-- more -->
+
 > - 自定义构建镜像的时候基于Dockerfile来构建。
 > - FROM node 命令的意思该镜像是基于 node:latest 镜像而构建的。
 > - COPY ./ /app 命令的意思是复制当前目录下文件到app目录

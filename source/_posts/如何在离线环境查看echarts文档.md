@@ -11,6 +11,8 @@ ECharts是一个使用 JavaScript 实现的开源可视化库，涵盖各行业�
 
 那么如何在离线环境查看echarts文档呢？
 
+<!-- more -->
+
 ## 部署方式
 
 1. 下载 [echarts-website](https://github.com/apache/echarts-website "echarts-website") 文件解压并放置在 Nginx服务器中

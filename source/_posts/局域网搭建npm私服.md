@@ -18,6 +18,8 @@ tags:
 **结论**：不友好，而且只能通过文件夹来安装，麻烦
 **痛点**： 前端项目依赖多且碎，比如开源依赖又依赖别的开源依赖
 
+<!-- more -->
+
 #### 方案二
 
 经后端同事提醒，可以搭建npm私服来解决。网上搜了一圈发现搭建npm私服软件还挺多的，不过最终选择了使用[nexus](https://www.sonatype.com/products/sonatype-nexus-oss-download)搭建（现在后端同事就是用它搭建maven私服）

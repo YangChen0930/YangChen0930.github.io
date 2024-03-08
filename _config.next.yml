@@ -257,8 +257,8 @@ post_meta:
 # Post wordcount display settings
 # Dependencies: https://github.com/next-theme/hexo-word-counter
 symbols_count_time:
-  symbols: false
-  time: false
+  symbols: true
+  time: true
   total_time: false
   total_symbols: false
   separated_meta: false

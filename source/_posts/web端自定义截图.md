@@ -24,6 +24,8 @@ tags:
 
 首先想到的技术就是canvas。将body文档内容绘制到canvas，然后利用canvas的`toDataUrl()`等方法即可获取到图片。
 
+<!-- more -->
+
 正好有个[html2canvas](https://html2canvas.hertzen.com/)开源库可以实现将指定dom转换为canvas。关于canvas截图实现具体可以参考之前的一篇[调研文档](2023/01/09/网页截图功能调研/)
 
 ## 使用webrtc截取整个屏幕

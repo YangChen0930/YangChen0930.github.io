@@ -30,6 +30,8 @@ CLASSPATH
 .;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;
 ```
 
+<!-- more -->
+
 ### Android Studio
 
 [Download Android Studio](https://developer.android.google.cn/studio/)

@@ -15,6 +15,8 @@ tags:
 | **CesiumTerrainProvider**    | 以cesium的格式访问地形数据                                   |
 | **sampleTerrain**            | 允许我们使用异步方式请求指定坐标点的高程信息                 |
 
+<!-- more -->
+
 基本创建方式
 
 ```javascript

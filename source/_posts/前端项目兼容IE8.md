@@ -14,6 +14,8 @@ tags:
 
 但是目前三大主流框架都不支持ie8
 
+<!-- more -->
+
 - #### vue
 
 vue从最初就不支持ie8，最低支持ie9，因为vue的核心数据劫持使用了ES5的特性Object.definedProprty来实现，而特性的浏览器兼容最低是ie9，所以vue从根本是不支持ie8。
