@@ -2,9 +2,10 @@
 title: Vite引入cesium最佳实现
 date: 2023-09-25 14:20:11
 tags:
-    - webgl
     - cesium
     - vite
+categories:
+    - 技术
 ---
 
 本文是基于[Vue3(vite)中使用cesium](/2023/08/04/Vue3中使用cesium/)实现的优化方案，如果还没了解过如何在Vite中使用CesiumJS，请自行查看。

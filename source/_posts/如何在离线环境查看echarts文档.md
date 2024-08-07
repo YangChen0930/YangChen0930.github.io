@@ -4,6 +4,9 @@ date: 2024-03-07 09:59:09
 tags:
     - 离线
     - echarts
+
+categories: 
+		- 随笔
 ---
 
 ## 背景

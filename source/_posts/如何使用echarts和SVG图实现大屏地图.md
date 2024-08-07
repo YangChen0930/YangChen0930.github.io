@@ -4,6 +4,9 @@ date: 2024-03-08 10:54:13
 tags:
     - echarts
     - 大屏
+
+categories:
+    - 技术
 ---
 
 ## 背景

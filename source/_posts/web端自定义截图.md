@@ -3,6 +3,10 @@ title: web端自定义截图
 date: 2023-07-14 14:37:13
 tags:
     - web
+    - 截图
+
+categories:
+    - 随笔
 ---
 
 ## 写在前面

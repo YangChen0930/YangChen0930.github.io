@@ -3,6 +3,9 @@ title: 如何规范git-commit提交
 date: 2022-07-06 11:43:32
 tags:
     - git
+
+categories:
+    - 规范
 ---
 
 Git 每次提交代码，都要写 Commit message（提交说明），否则就不允许提交

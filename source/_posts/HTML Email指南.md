@@ -4,6 +4,8 @@ date: 2023-03-03 14:09:45
 tags:
     - web
     - email
+categories:
+    - 规范
 ---
 
 如何发送一个html格式的邮件给用户呢？

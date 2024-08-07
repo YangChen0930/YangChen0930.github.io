@@ -4,6 +4,9 @@ date: 2022-03-08 17:20:28
 tags:
     - webgl
     - cesium
+
+categories:
+    - 学习笔记
 ---
 
 ## 1.加载GeoJson、KML、CZML数据

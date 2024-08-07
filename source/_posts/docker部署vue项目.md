@@ -5,6 +5,8 @@ tags:
     - web
     - nginx
     - docker
+categories:
+    - 技术
 ---
 
 

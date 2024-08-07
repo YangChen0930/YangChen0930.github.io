@@ -4,6 +4,9 @@ date: 2022-03-08 17:31:33
 tags:
     - webgl
     - cesium
+
+categories:
+    - 学习笔记
 ---
 
 ## 前言

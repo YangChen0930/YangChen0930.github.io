@@ -2,6 +2,12 @@
 title: Hexo-Github-page搭建博客
 date: 2019-07-22 13:53:06
 tags:
+  - Hexo
+  - Github
+  - Blog
+
+categories:
+    - 学习笔记
 ---
 
 # 前言

@@ -4,6 +4,9 @@ date: 2022-03-08 16:56:18
 tags:
     - webgl
     - cesium
+
+categories:
+    - 学习笔记
 ---
 
 ## 1.创建地形图层

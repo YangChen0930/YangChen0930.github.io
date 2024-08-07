@@ -5,6 +5,9 @@ tags:
   - app
   - web
   - cordova
+
+categories:
+    - 随笔
 ---
 
 工作中接触过几次混合 APP 开发，所以将一些用得到的内容记录下来，乙方遗忘。

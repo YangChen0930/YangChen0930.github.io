@@ -2,10 +2,12 @@
 title: Vue3中使用cesium
 date: 2023-08-04 15:18:10
 tags:
-    - webgl
     - cesium
     - vue3
     - vite
+
+categories:
+    - 随笔    
 ---
 
 ### 1、安装，这里应项目需要安装固定版本

@@ -4,6 +4,9 @@ date: 2022-03-08 17:13:35
 tags:
     - webgl
     - cesium
+
+categories:
+    - 学习笔记
 ---
 
 ## 1.加载模型
