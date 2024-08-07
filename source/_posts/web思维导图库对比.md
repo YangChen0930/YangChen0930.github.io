@@ -179,10 +179,15 @@ export default defineComponent({
 
 ![](https://s2.loli.net/2024/08/06/k7vZe9LC1c5I4s6.png)
 
+**xmind文件**
+![xmind文件](https://s2.loli.net/2024/08/07/KkpzhgyUvMO2oai.png)
+**JSON文件**
+![JSON文件](https://s2.loli.net/2024/08/07/LTwtbBOrCnHcsUW.png)
+
 **优点：**
 
 - 相对齐全的思维导图功能（目前几个开源框架中功能最多的）
-- 支持读取和导出XMind文件
+- 支持读取和导出XMind文件（）
 - 支持协同编辑和演示模式
 - 定制化程度高
 - 文档完善
@@ -191,6 +196,9 @@ export default defineComponent({
 **缺点：**
 
 - 并没有提供一个完整思维导图，需要根据提供的接口来实现更多功能（项目附带一个vue2+elementui实现的完整思维导图）
+- 不支持概要节点后面继续添加节点
+- 不支持多个根节点
+- 导入xmind文件会丢失关联线（JSON文件并不会）
 
 
 ### 6、mindmaptree
